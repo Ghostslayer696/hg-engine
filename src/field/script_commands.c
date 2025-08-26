@@ -18,6 +18,7 @@
 #include "../../include/constants/species.h"
 #include "../../include/constants/weather_numbers.h"
 #include "../../include/constants/generated/learnsets.h"
+#include "../../include/map_events_internal.h"
 
 /**
  *  @brief script command to give an egg adapted to set the hidden ability
