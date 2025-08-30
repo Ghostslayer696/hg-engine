@@ -40,7 +40,7 @@ const struct BadgeMartItems sBadgeMart[] = {
     { ITEM_MAX_REPEL,      5 },
 };
 
-void LONG_CALL InitMartUI(void *taskManager, FieldSystem *fieldSystem, const u16 *items, int kind, int buySell, int decoWhich, struct MartItem *priceOverrides);
+void LONG_CALL InitMartUI(void *taskManager, FieldSystem *fieldSystem, const u16 *items, int kind, int buySell, int decoWhich, const struct MartItem *priceOverrides);
 
 u16 sCherrygroveCityMart[] = {
     ITEM_RARE_CANDY, ITEM_HEAL_BALL, ITEM_POKE_BALL, ITEM_POTION, ITEM_MAX_REPEL, 0xFFFF
@@ -197,7 +197,9 @@ u16 sMahoganyPostRocketHideout[] = {
 };
 
 BOOL ScrCmd_MartBuy(SCRIPTCONTEXT *ctx) {
-    u16 items[NELEMS(sBadgeMart)];
+    u16 unused = ScriptGetVar(ctx);
+
+    u16 items[NELEMS(sBadgeMart) + 1];
     u8 badgeCount = 0;
     u8 index = 0;
 
