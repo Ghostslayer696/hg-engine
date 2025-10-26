@@ -1240,19 +1240,19 @@ _0AD4: // Trainer 409
     trainertextentry 409, TEXT_DEFEATED_IN_OVERWORLD, "My Pokémon knew moves I didn’t know it\nhad. That confounded me to no end!\n"
 
 _0AE0: // Trainer 118
-    trainertextentry 118, TEXT_NOTICE_IN_OVERWORLD, "Kate: You sure were mean to my\nlittle sisters!\r"
-    trainertextentry 118, TEXT_DEFEATED_IN_BATTLE, "Kate: No! I can’t believe I lost.\n"
-    trainertextentry 118, TEXT_DEFEATED_IN_OVERWORLD, "Kate: You’re too strong. I didn’t stand\na chance.\rHere. You deserve this.\n"
+    trainertextentry 118, TEXT_NOTICE_IN_OVERWORLD, "Shauntal: My name is Shauntal\nI am a Ghost\n Specialist and an Elite Four\nMember from the Unova\nI can tell this is\ngoing to be a tough battle!\r"
+    trainertextentry 118, TEXT_DEFEATED_IN_BATTLE, "Shauntal: Congratulaions! you really\nare a Challenging Trainer!\n"
+    trainertextentry 118, TEXT_DEFEATED_IN_OVERWORLD, "Shauntal: You should come to\nUnova sometime and take on\nthe Unova League! but\nuntil then you can have\n the TMS that are in this area.\rHere. You deserve this too.\n"
 
 _0AEC: // Trainer 120
-    trainertextentry 120, TEXT_NOTICE_IN_OVERWORLD, "Irene: Eeek! A Trainer!\r"
-    trainertextentry 120, TEXT_DEFEATED_IN_BATTLE, "Irene: Ohhh! Too strong!\n"
-    trainertextentry 120, TEXT_DEFEATED_IN_OVERWORLD, "Irene: My sister Kate will get you\nfor this!\n"
+    trainertextentry 120, TEXT_NOTICE_IN_OVERWORLD, "Elesa: Well well... A Trainer!\nMy name is Elesa and\nI am a Unova Gym Leader!\r"
+    trainertextentry 120, TEXT_DEFEATED_IN_BATTLE, "Elesa: You're not too bad\n You remind me of\n another strong trainer!\n"
+    trainertextentry 120, TEXT_DEFEATED_IN_OVERWORLD, "Elesa: Next up is Skyla. she \nlikes to take to the sky!\n"
 
 _0AF8: // Trainer 417
-    trainertextentry 417, TEXT_NOTICE_IN_OVERWORLD, "Jenn: You can’t beat Irene and go\nunpunished!\r"
-    trainertextentry 417, TEXT_DEFEATED_IN_BATTLE, "Jenn: So sorry, Irene! Sis!\n"
-    trainertextentry 417, TEXT_DEFEATED_IN_OVERWORLD, "Jenn: Don’t get cocky! My sister Kate\nis tough!\n"
+    trainertextentry 417, TEXT_NOTICE_IN_OVERWORLD, "Skyla: Hey there! My name is Skyla\nYou handled Elesa pretty\n well. Lets see how\nyou do against a flying\ntype specialist!\r"
+    trainertextentry 417, TEXT_DEFEATED_IN_BATTLE, "Skyla: Wow i can see why Elesa\nhad trouble beating you!\n"
+    trainertextentry 417, TEXT_DEFEATED_IN_OVERWORLD, "Skyla: You remind me of a\nTrainer back in Unova that\nbattled just like you. Next up is\nShauntal an Elite Four from Unova!
 
 _0B04: // Trainer 65
     trainertextentry  65, TEXT_NOTICE_IN_OVERWORLD, "Are you a Trainer? Let’s have a\npractice battle.\r"
@@ -1978,19 +1978,19 @@ _11DC: // Trainer 204
     trainertextentry 204, TEXT_DEFEATED_IN_OVERWORLD, "I live down here.\nIf you like, you can always come visit!\n"
 
 _11E8: // Trainer 205
-    trainertextentry 205, TEXT_NOTICE_IN_OVERWORLD, "There are two kinds of people:\nthose with style and those without.\rWhich kind of person are you?\r"
-    trainertextentry 205, TEXT_DEFEATED_IN_BATTLE, "You’ve got dazzling style!\n"
-    trainertextentry 205, TEXT_DEFEATED_IN_OVERWORLD, "Your Pokémon style is stunning and\nfull of life, I admit.\rYou’ll just keep getting better!\n"
+    trainertextentry 205, TEXT_NOTICE_IN_OVERWORLD, "Well now, reckon we got ourselves\na challenger wanderin’ in.\rY’all ready for a real down-n-dirty showdown?\r"
+    trainertextentry 205, TEXT_DEFEATED_IN_BATTLE, "Heh… ya struck gold this time, partner.\nGuess even the toughest clay’ll crack\n under enough pressure.\n"
+    trainertextentry 205, TEXT_DEFEATED_IN_OVERWORLD, "Ain’t no shame in losin’ if it helps\nme dig up new strength.\rY’all taught me somethin’ today.\n"
 
 _11F4: // Trainer 206
-    trainertextentry 206, TEXT_NOTICE_IN_OVERWORLD, "I’m in training.\nCare for a round?\r"
-    trainertextentry 206, TEXT_DEFEATED_IN_BATTLE, "Aww, no! You’re too good for me.\n"
-    trainertextentry 206, TEXT_DEFEATED_IN_OVERWORLD, "I’m going to train by myself until\nI improve.\n"
+    trainertextentry 206, TEXT_NOTICE_IN_OVERWORLD, "Ah! Inspiration strikes\na challenger approaches!\rLet’s paint the battlefield with our passions!\n"
+    trainertextentry 206, TEXT_DEFEATED_IN_BATTLE, "Ohhh, the colors of my defeat…\nwhat a bittersweet masterpiece you’ve painted!\n"
+    trainertextentry 206, TEXT_DEFEATED_IN_OVERWORLD, "Every loss adds new strokes\nto the canvas of growth…\nand today, you’ve brightened mine.\n"
 
 _1200: // Trainer 363
-    trainertextentry 363, TEXT_NOTICE_IN_OVERWORLD, "If the Pokémon I liked were there,\nI’d go anywhere.\rThat’s what a real Trainer does.\r"
-    trainertextentry 363, TEXT_DEFEATED_IN_BATTLE, "I’d rather pet my Pokémon than battle!\n"
-    trainertextentry 363, TEXT_DEFEATED_IN_OVERWORLD, "Just once a week, a Pokémon comes to\nthe water’s edge.\rI wanted to see that Pokémon...\n"
+    trainertextentry 363, TEXT_NOTICE_IN_OVERWORLD, "Heh… so, the odds brought you here.\nMy name is Grimsley of the Unova.\rElite Four, who you battled before were\r Burgh and Clay, they are both gym leaders\r of the Unova League.\r Care to risk it all on a hand with me?\r"
+    trainertextentry 363, TEXT_DEFEATED_IN_BATTLE, "Tch… the house always wins?\nNot this time, kid. You played your cards better.\n"
+    trainertextentry 363, TEXT_DEFEATED_IN_OVERWORLD, "Loss or gain, it’s all part of the gamble…\nI’ll be back at the table soon enough.\nThese TMs here are yours for your journey.\n"
 
 _120C: // Trainer 486
     trainertextentry 486, TEXT_LAST_MON_SENT_OUT, "It doesn’t matter where we go, there’s\nalways someone who doesn’t agree\fwith us...\n"
