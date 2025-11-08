@@ -1958,24 +1958,24 @@ _11AC: // Trainer 384
     trainertextentry 384, TEXT_DEFEATED_IN_OVERWORLD, "I was conned into buying a\nSlowpokeTail. I feel sorry for the\fpoor Pokémon.\n"
 
 _11B8: // Trainer 201
-    trainertextentry 201, TEXT_NOTICE_IN_OVERWORLD, "Who’s there?\nLeave me and my Pokémon alone!\r"
-    trainertextentry 201, TEXT_DEFEATED_IN_BATTLE, "Go...\nGo away!\n"
-    trainertextentry 201, TEXT_DEFEATED_IN_OVERWORLD, "Just me and my Pokémon.\nI’m delirious with joy.\n"
+    trainertextentry 201, TEXT_NOTICE_IN_OVERWORLD, "Hey there! My name is Cheren\nIm a normal type Gym Leader from\n the Unova Region and a Teacher!\nLet’s see how far your journey has taken you!\r"
+    trainertextentry 201, TEXT_DEFEATED_IN_BATTLE, "I analyzed every move… and still,\nyou outplayed me. Impressive.\n"
+    trainertextentry 201, TEXT_DEFEATED_IN_OVERWORLD, "Victory and defeat both teach\n valuable lessons.\nI’ll be ready next time — count on it.\n"
 
 _11C4: // Trainer 202
-    trainertextentry 202, TEXT_NOTICE_IN_OVERWORLD, "I came all the way here to conduct my\nPokémon research.\rLet me demonstrate my findings in a\nreal battle!\r"
-    trainertextentry 202, TEXT_DEFEATED_IN_BATTLE, "I’m the one who learned something from\nyour demonstration!\n"
-    trainertextentry 202, TEXT_DEFEATED_IN_OVERWORLD, "I should compile and announce my study\nfindings. I might even become famous\flike Professor Elm.\n"
+    trainertextentry 202, TEXT_NOTICE_IN_OVERWORLD, "Hiya My name is Roxie of the Unova Region\n and I am a Poison Type specialist.\rYou ready to rock this battle or what?\n Let’s crank it up to eleven!\r"
+    trainertextentry 202, TEXT_DEFEATED_IN_BATTLE, "Whoa! You totally hit the right notes there\n what a performance!\n"
+    trainertextentry 202, TEXT_DEFEATED_IN_OVERWORLD, "Losing’s just another verse in my song!\nNext gig, I’ll be louder, tougher, and way more in tune!\n"
 
 _11D0: // Trainer 203
-    trainertextentry 203, TEXT_NOTICE_IN_OVERWORLD, "It’s been a while since I last saw\nanother person.\rDon’t be shy. Let’s battle!\r"
-    trainertextentry 203, TEXT_DEFEATED_IN_BATTLE, "Uurggh...\n"
-    trainertextentry 203, TEXT_DEFEATED_IN_OVERWORLD, "I’ve been lost for a long time...\rI don’t mind it here, but I am\nsoooo hungry!\n"
+    trainertextentry 203, TEXT_NOTICE_IN_OVERWORLD, "We are 2 of the Elite Four\n from the Unova Region.\n My name is Caitlin and my tag Partner\n is Marshal,\n Our minds and bodies are perfectly in sync…\n"
+    trainertextentry 203, TEXT_DEFEATED_IN_BATTLE, "My focus… slipped away like a dream.\n"
+    trainertextentry 203, TEXT_DEFEATED_IN_OVERWORLD, "Even in loss, tranquility can be found.\rHave these TMs behind us they will guide\n you on your journey!\n"
 
 _11DC: // Trainer 204
-    trainertextentry 204, TEXT_NOTICE_IN_OVERWORLD, "What do you know!\nA visitor!\r"
-    trainertextentry 204, TEXT_DEFEATED_IN_BATTLE, "Wa ha ha! You’re a feisty one!\n"
-    trainertextentry 204, TEXT_DEFEATED_IN_OVERWORLD, "I live down here.\nIf you like, you can always come visit!\n"
+    trainertextentry 204, TEXT_NOTICE_IN_OVERWORLD, "And together, we’ll test the limits of your resolve!\n"
+    trainertextentry 204, TEXT_DEFEATED_IN_BATTLE, "Ha! Your spirit’s as unyielding\n as your strength — I respect that!\n"
+    trainertextentry 204, TEXT_DEFEATED_IN_OVERWORLD, "And in every defeat, another chance to grow stronger!\n"
 
 _11E8: // Trainer 205
     trainertextentry 205, TEXT_NOTICE_IN_OVERWORLD, "Well now, reckon we got ourselves\na challenger wanderin’ in.\rY’all ready for a real down-n-dirty showdown?\r"
