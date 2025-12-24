@@ -11311,8 +11311,8 @@ terminateevodata
 
 evodata SPECIES_KUBFU
     //evolution EVO_LEVEL, 0, SPECIES_URSHIFU // implemented using the gracidea function
-    evolution EVO_LEVEL_DAY, 40, SPECIES_URSHIFU
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolution EVO_STONE, ITEM_SCROLL_OF_DARKNESS, SPECIES_URSHIFU
+    evolution EVO_STONE, ITEM_SCROLL_OF_WATERS, SPECIES_URSHIFU, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
