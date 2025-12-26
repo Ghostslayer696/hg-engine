@@ -7364,7 +7364,7 @@ mondata SPECIES_FEEBAS, "Feebas"
     mondexweight SPECIES_FEEBAS, "16.3 lbs."
 
 
-mondata SPECIES_, "Milotic"
+mondata SPECIES_MILOTIC, "Milotic"
     basestats 95, 60, 79, 81, 100, 125
     types TYPE_WATER, TYPE_FAIRY
     catchrate 60
